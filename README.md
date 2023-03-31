@@ -157,6 +157,6 @@ I would like to thank Microverse community.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./License) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
